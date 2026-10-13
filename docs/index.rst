@@ -15,7 +15,7 @@ This documentation demonstrates how you can use RAG for document ingestion, embe
 It outlines the necessary steps and components required to construct a complete RAG pipeline for this workflow.
 
 ROCm-RAG is part of the `AMD LLM Extension toolkit
-<https://rocm.docs.amd.com/projects/rocm-llmext/en/docs-26.04/>`__.
+<https://rocm.docs.amd.com/projects/llmextension/en/docs-26.04/>`__.
 
 The ROCm-RAG public repository is located at `https://github.com/AMD-Ecosystem/rocm-rag <https://github.com/AMD-Ecosystem/rocm-rag>`__.
 
